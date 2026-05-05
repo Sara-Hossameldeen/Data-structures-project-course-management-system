@@ -23,17 +23,17 @@ Admin:
   Admins 
 
 # File Handling
-students.txt ->	Student records
-courses.txt	 -> Course details
-enrollments.txt	-> Enrollment data
-admin.txt	Admin -> credentials
+- students.txt ->	Student records
+- courses.txt	 -> Course details
+- enrollments.txt	-> Enrollment data
+- admin.txt	Admin -> credentials
 
 # System Workflow
-Start Program
-   ↓
-Load Data from Files
-   ↓
-Main Menu:
+- Start Program
+       ↓
+- Load Data from Files
+       ↓
+- Main Menu:
    1. Student Login
    2. Admin Login
    3. Register Student
