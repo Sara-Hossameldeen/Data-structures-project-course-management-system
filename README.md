@@ -17,10 +17,10 @@ Admin:
 
 # Data Structures Used
 - Singly Linked Lists:
-  Students
-  Courses
-  Enrollments
-  Admins
+  Students - 
+  Courses - 
+  Enrollments - 
+  Admins 
 
 # File Handling
 students.txt ->	Student records
