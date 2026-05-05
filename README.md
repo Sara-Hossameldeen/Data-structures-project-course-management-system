@@ -7,6 +7,7 @@ Student:
 - Browse available courses
 - Enroll in courses
 - View transcript (grades & enrolled courses)
+  
 Admin:
 - CRUD operations for students
 - CRUD operations for courses
